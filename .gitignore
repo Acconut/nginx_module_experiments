@@ -1,3 +1,4 @@
 */nginx-1.27.0/
-*/build/
+*/build/**
+!*/build/**/
 !*/build/conf/nginx.conf
