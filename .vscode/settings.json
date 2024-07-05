@@ -7,5 +7,6 @@
         "*.css.liquid": "liquid-css",
         "*.scss.liquid": "liquid-scss",
         "ngx_core.h": "c"
-    }
+    },
+    "search.useIgnoreFiles": false
 }
